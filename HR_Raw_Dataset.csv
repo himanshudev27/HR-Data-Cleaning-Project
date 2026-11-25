@@ -1,0 +1,613 @@
+Employee_ID,Employee_Name,Age,Gender,Department,Job_Role,Location,Date_of_Joining,Annual_Salary_INR,Years_of_Experience,Performance_Rating,Attendance_Percentage,Leave_Days,Employment_Status
+EMP0001,Employee 001,,Non-binary,Operations,Operations Associate,Mumbai,2017-04-13,53245.0,3,2,91.0,3,On Leave
+EMP0002,Employee 002,55.0,Prefer not to say,,Operations Associate,Ahmedabad,2017-12-23,54839.0,31,2,100.0,7,On Leave
+EMP0003,Employee 003,22.0,Prefer not to say,Marketing,Marketing Executive,Bengaluru,2023-04-18,49321.0,1,3,90.4,25,Active
+EMP0004,Employee 004,31.0,Non-binary,IT,Systems Administrator,Mumbai,2024-10-30,94319.0,8,3,97.4,24,Resigned
+EMP0005,Employee 005,26.0,Non-binary,Human Resources,Recruiter,Hyderabad,2021-04-06,40352.0,6,3,95.8,1,On Leave
+EMP0006,Employee 006,55.0,Female,Finance,Finance Manager,Delhi,2018-05-27,58373.0,32,4,88.7,19,Resigned
+EMP0007,Employee 007,33.0,Female,Marketing,Marketing Manager,Mumbai,2024-11-25,54768.0,13,4,78.6,2,Active
+EMP0008,Employee 008,27.0,Prefer not to say,IT,IT Manager,Jaipur,2021-04-06,43436.0,5,3,88.1,11,RESIGNED
+EMP0009,Employee 009,38.0,Female,Engineering,Engineering Manager,Pune,2024-11-14,66060.0,13,2,94.2,23,Active
+EMP0010,Employee 010,50.0,Male,Engineering,Engineering Manager,Delhi,2021-04-04,68019.0,28,4,82.1,24,Active
+EMP0011,Employee 011,23.0,Prefer not to say,Engineering,Senior Engineer,Ahmedabad,2026-01-11,112407.0,1,3,90.4,30,On Leave
+EMP0012,Employee 012,41.0,Prefer not to say,Operations,Operations Analyst,Pune,2019-05-21,48713.0,16,3,82.0,8,Active
+EMP0013,Employee 013,56.0,Prefer not to say,Engineering,Engineering Manager,Bengaluru,2023-01-17,,34,3,92.8,4,On Leave
+EMP0014,Employee 014,26.0,Female,Finance,Accountant,Pune,2025-06-23,48540.0,6,2,94.6,21,Resigned
+EMP0015,Employee 015,25.0,Prefer not to say,Marketing,Marketing Manager,Delhi,2021-04-26,45128.0,2,5,90.0,27,Active
+EMP0016,Employee 016,28.0,Non-binary,Operations,Operations Manager,Delhi,2024-08-24,41645.0,4,2,100.0,13,Active
+EMP0017,Employee 017,21.0,Non-binary,Finance,Finance Manager,Jaipur,2025-02-05,64806.0,0,2,84.6,29,Active
+EMP0018,Employee 018,40.0,Male,IT,IT Support,Delhi,2026-06-10,82667.0,15,4,83.5,17,On Leave
+EMP0019,Employee 019,59.0,Female,Human Resources,HR Executive,Delhi,2020-08-20,47067.0,35,4,78.3,26,Resigned
+EMP0020,Employee 020,24.0,Female,Engineering,Software Engineer,Pune,2019-09-14,60162.0,0,3,93.4,2,On Leave
+EMP0021,Employee 021,29.0,Prefer not to say,IT,IT Manager,Mumbai,2018-06-10,81372.0,4,3,93.2,27,On Leave
+EMP0022,Employee 022,34.0,Male,Finance,Finance Manager,Delhi,2023-01-18,63346.0,9,3,89.9,21,On Leave
+EMP0023,Employee 023,49.0,Female,Sales,Sales Executive,Mumbai,2022-10-21,37109.0,26,2,87.0,0,On Leave
+EMP0024,Employee 024,35.0,Female,Marketing,Marketing Executive,Pune,2023-08-08,46730.0,14,4,99.4,7,Active
+EMP0025,Employee 025,42.0,Male,Human Resources,Recruiter,Pune,2017-10-18,48401.0,18,3,79.7,17,Active
+EMP0026,Employee 026,57.0,Male,Operations,Operations Analyst,Jaipur,2023-06-19,51422.0,34,3,89.3,3,Active
+EMP0027,Employee 027,48.0,Prefer not to say,Operations,Operations Analyst,Jaipur,2020-12-22,40851.0,25,4,96.3,21,On Leave
+EMP0028,Employee 028,27.0,Non-binary,Operations,Operations Associate,Mumbai,2017-09-06,58887.0,4,2,98.5,17,Resigned
+EMP0029,Employee 029,48.0,Prefer not to say,Engineering,Software Engineer,Jaipur,2019-01-22,69306.0,26,5,89.8,14,On Leave
+EMP0030,Employee 030,24.0,Female,Human Resources,HR Executive,Jaipur,2024-04-25,48279.0,0,4,98.8,5,Resigned
+EMP0031,Employee 031,51.0,Female,Finance,Accountant,Bengaluru,not recorded,58147.0,28,1,90.7,12,Resigned
+EMP0032,Employee 032,50.0,Prefer not to say,IT,IT Support,Mumbai,2020-03-14,52962.0,27,3,83.6,30,Active
+EMP0033,Employee 033,55.0,Non-binary,marketing,Marketing Executive,Ahmedabad,2017-09-07,61295.0,30,3,100.0,16,On Leave
+EMP0034,Employee 034,24.0,Male,Engineering,Software Engineer,Hyderabad,2022-09-12,83653.0,4,2,99.0,27,Active
+EMP0035,Employee 035,,Female,Finance,Finance Manager,Ahmedabad,2023-05-23,70171.0,7,3,87.5,18,On Leave
+EMP0036,Employee 036,41.0,Non-binary,Marketing,Marketing Executive,Delhi,2019-12-05,56134.0,20,3,100.0,21,On Leave
+EMP0037,Employee 037,50.0,Female,Sales,Account Manager,Hyderabad,2020-07-19,54566.0,30,5,100.0,3,Active
+EMP0038,Employee 038,34.0,Male,Marketing,Content Specialist,Ahmedabad,2022-09-04,24000.0,12,4,97.8,11,Resigned
+EMP0039,Employee 039,49.0,Non-binary,Engineering,Engineering Manager,Jaipur,2026-05-09,86627.0,25,4,89.9,0,On Leave
+EMP0040,Employee 040,56.0,Female,IT,IT Support,Delhi,2020-05-11,71413.0,31,2,78.1,3,On Leave
+EMP0041,Employee 041,,Male,Marketing,Marketing Manager,Delhi,2020-01-21,49486.0,8,3,94.5,20,Resigned
+EMP0042,Employee 042,52.0,Female,Marketing,Marketing Manager,Bengaluru,not recorded,68907.0,32,4,88.4,1,Active
+EMP0043,Employee 043,29.0,Male,Sales,Sales Manager,Bengaluru,2024-02-23,45217.0,7,3,88.5,13,On Leave
+EMP0044,Employee 044,28.0,Male,Human Resources,HR Manager,Ahmedabad,2017-11-05,54062.0,3,4,94.3,18,On Leave
+EMP0045,Employee 045,48.0,Non-binary,Engineering,Senior Engineer,Jaipur,2018-06-07,75093.0,28,5,95.6,1,Resigned
+EMP0046,Employee 046,36.0,Non-binary,Engineering,Engineering Manager,Jaipur,2024-06-24,86815.0,16,7,98.8,19,On Leave
+EMP0047,Employee 047,36.0,Prefer not to say,Engineering,Software Engineer,Mumbai,2018-10-28,71871.0,15,4,89.7,10,Resigned
+EMP0048,Employee 048,36.0,Female,IT,Systems Administrator,Jaipur,2019-12-29,63961.0,15,1,81.8,15,Active
+EMP0049,Employee 049,50.0,Male,Engineering,Software Engineer,Ahmedabad,2020-12-03,90537.0,28,4,93.8,12,Resigned
+EMP0050,Employee 050,25.0,Non-binary,Sales,Sales Manager,Hyderabad,2025-09-03,55061.0,3,3,90.4,26,On Leave
+EMP0051,Employee 051,22.0,Male,Sales,Sales Manager,Delhi,2018-04-18,37874.0,0,1,89.1,19,Resigned
+EMP0052,Employee 052,41.0,Female,Sales,Account Manager,Hyderabad,2021-11-23,50853.0,17,2,86.4,1,On Leave
+EMP0053,Employee 053,21.0,Male,Finance,Financial Analyst,Bengaluru,2022-10-31,62693.0,0,2,94.8,21,Resigned
+EMP0054,Employee 054,41.0,Non-binary,Marketing,Marketing Manager,Delhi,2024-06-10,73577.0,21,4,93.2,10,Resigned
+EMP0055,Employee 055,39.0,Male,Operations,Operations Analyst,Pune,2023-03-21,50719.0,18,5,125.0,21,On Leave
+EMP0056,Employee 056,60.0,Prefer not to say,Engineering,Engineering Manager,Jaipur,2023-05-21,49118.0,35,1,91.8,9,Active
+EMP0057,Employee 057,58.0,Non-binary,Finance,Financial Analyst,Bengaluru,2023-10-21,65861.0,33,3,100.0,6,On Leave
+EMP0058,Employee 058,31.0,Non-binary,Finance,Finance Manager,Pune,2024-05-22,62249.0,11,4,94.1,10,Active
+EMP0059,Employee 059,36.0,Male,IT,IT Support,Mumbai,2024-07-18,69465.0,14,1,83.8,7,Resigned
+EMP0060,Employee 060,25.0,Male,marketing,Marketing Manager,Pune,not recorded,65073.0,2,3,97.3,12,ACTIVE
+EMP0061,Employee 061,,Prefer not to say,Engineering,Software Engineer,Mumbai,2025-06-03,99792.0,1,4,85.6,22,On Leave
+EMP0062,Employee 062,24.0,Female,Finance,Financial Analyst,Mumbai,2023-04-03,85059.0,3,4,82.2,21,On Leave
+EMP0063,Employee 063,59.0,Prefer not to say,Marketing,Marketing Manager,Bengaluru,2020-07-23,58713.0,35,4,100.0,23,Resigned
+EMP0064,Employee 064,37.0,Non-binary,Finance,Finance Manager,Bengaluru,2025-06-07,50835.0,16,4,88.0,8,Resigned
+EMP0065,Employee 065,39.0,Non-binary,Human Resources,Recruiter,Hyderabad,2019-08-19,45986.0,17,2,88.5,4,Active
+EMP0066,Employee 066,30.0,Female,Finance,Financial Analyst,Bengaluru,2024-12-03,42825.0,9,3,92.5,14,Resigned
+EMP0067,Employee 067,34.0,Prefer not to say,Human Resources,HR Manager,Pune,2026-05-05,34483.0,11,1,95.3,28,On Leave
+EMP0068,Employee 068,51.0,Non-binary,Finance,Financial Analyst,Jaipur,2017-01-25,51852.0,29,4,100.0,26,Resigned
+EMP0069,Employee 069,55.0,Male,Marketing,Content Specialist,Mumbai,2025-12-21,43039.0,31,3,89.7,15,Active
+EMP0070,Employee 070,42.0,Prefer not to say,Finance,Finance Manager,Mumbai,2024-07-02,76633.0,17,4,83.4,29,Active
+EMP0071,Employee 071,55.0,Female,Marketing,Marketing Executive,Pune,2017-04-21,54602.0,32,3,100.0,27,Resigned
+EMP0072,Employee 072,24.0,Non-binary,engineering,Software Engineer,Bengaluru,2019-12-02,54940.0,1,3,93.3,24,Resigned
+EMP0073,Employee 073,47.0,Prefer not to say,Sales,Sales Executive,Pune,2019-10-31,58144.0,27,3,97.5,30,Resigned
+EMP0074,Employee 074,25.0,Female,Engineering,Software Engineer,Mumbai,2025-10-05,61869.0,0,2,82.8,0,On Leave
+EMP0075,Employee 075,36.0,Female,Engineering,Engineering Manager,Mumbai,2018-06-02,94760.0,13,3,94.1,8,Resigned
+EMP0076,Employee 076,59.0,Female,Engineering,Software Engineer,Delhi,2023-10-24,89684.0,34,2,94.4,0,Resigned
+EMP0077,Employee 077,45.0,Male,Marketing,Marketing Executive,Hyderabad,2021-06-13,44220.0,20,4,93.6,20,Active
+EMP0078,Employee 078,40.0,Female,Human Resources,HR Manager,Jaipur,2026-07-15,47901.0,15,1,87.0,17,Resigned
+EMP0079,Employee 079,44.0,Non-binary,Operations,Operations Associate,Jaipur,2017-10-10,67702.0,20,3,95.3,15,Active
+EMP0080,Employee 080,44.0,Male,Finance,Financial Analyst,Mumbai,2024-02-17,,21,4,96.6,30,On Leave
+EMP0081,Employee 081,60.0,Prefer not to say,Sales,Account Manager,Bengaluru,2026-01-24,43206.0,35,4,97.5,18,Resigned
+EMP0082,Employee 082,36.0,Non-binary,Sales,Account Manager,Mumbai,2026-04-26,69019.0,16,4,86.3,18,On Leave
+EMP0083,Employee 083,45.0,Prefer not to say,Operations,Operations Analyst,Mumbai,2020-10-09,58173.0,25,3,94.9,11,Resigned
+EMP0084,Employee 084,38.0,Non-binary,Sales,Sales Manager,Ahmedabad,2023-09-08,64946.0,13,3,100.0,6,Active
+EMP0085,Employee 085,47.0,Male,Engineering,Engineering Manager,Bengaluru,2022-06-25,80411.0,23,4,86.7,15,Resigned
+EMP0086,Employee 086,22.0,Male,IT,Systems Administrator,Pune,2018-01-17,56301.0,0,3,86.3,21,On Leave
+EMP0087,Employee 087,51.0,Non-binary,Sales,Account Manager,Pune,2023-03-18,54067.0,27,3,94.4,11,On Leave
+EMP0088,Employee 088,38.0,Male,Finance,Accountant,Pune,2020-06-09,68956.0,16,2,97.8,3,On Leave
+EMP0089,Employee 089,32.0,Prefer not to say,Marketing,Content Specialist,Pune,2019-02-24,52148.0,11,3,100.0,24,On Leave
+EMP0090,Employee 090,39.0,Non-binary,Marketing,Marketing Executive,Delhi,not recorded,48972.0,18,2,100.0,0,On Leave
+EMP0091,Employee 091,29.0,Female,Marketing,Marketing Manager,Delhi,2020-01-29,59157.0,9,4,86.0,4,ON LEAVE
+EMP0092,Employee 092,52.0,Non-binary,IT,Systems Administrator,Bengaluru,2018-02-25,53508.0,32,3,95.4,5,Active
+EMP0093,Employee 093,51.0,Prefer not to say,Sales,Account Manager,Ahmedabad,2018-04-13,52296.0,31,3,97.0,21,Active
+EMP0094,Employee 094,30.0,Non-binary,Engineering,Software Engineer,Mumbai,2026-02-05,93849.0,6,2,91.5,24,Resigned
+EMP0095,Employee 095,59.0,Male,Marketing,Marketing Manager,Bengaluru,2025-11-13,42312.0,35,3,81.4,14,Resigned
+EMP0096,Employee 096,58.0,Female,IT,IT Manager,Pune,2021-10-23,63123.0,35,2,98.0,24,Active
+EMP0097,Employee 097,34.0,Female,,Operations Associate,Mumbai,2019-12-20,50260.0,9,2,83.3,2,Active
+EMP0098,Employee 098,47.0,Prefer not to say,Human Resources,Recruiter,Ahmedabad,2022-01-20,46714.0,22,3,94.7,22,Resigned
+EMP0099,Employee 099,50.0,Male,Operations,Operations Analyst,Jaipur,2017-10-19,38666.0,25,4,93.1,18,On Leave
+EMP0100,Employee 100,,Male,IT,IT Manager,Mumbai,2021-10-08,70896.0,13,5,84.0,26,Active
+EMP0101,Employee 101,24.0,Non-binary,Human Resources,Recruiter,Ahmedabad,2018-11-11,48542.0,2,3,95.9,9,On Leave
+EMP0102,Employee 102,38.0,Prefer not to say,finance,Financial Analyst,Ahmedabad,2022-08-12,80487.0,14,3,125.0,28,Resigned
+EMP0103,Employee 103,41.0,Female,,Operations Associate,Mumbai,2023-10-09,33451.0,19,5,85.4,26,On Leave
+EMP0104,Employee 104,22.0,Non-binary,Marketing,Marketing Manager,Ahmedabad,2025-07-30,57892.0,0,4,95.6,5,Resigned
+EMP0105,Employee 105,49.0,Prefer not to say,Marketing,Marketing Manager,Jaipur,2020-02-14,57892.0,28,3,100.0,2,Resigned
+EMP0106,Employee 106,47.0,Female,Sales,Sales Executive,Delhi,2020-09-27,61907.0,25,3,99.9,15,Resigned
+EMP0107,Employee 107,46.0,Female,Operations,Operations Analyst,Ahmedabad,2026-02-15,58074.0,22,3,96.6,10,Active
+EMP0108,Employee 108,46.0,Prefer not to say,IT,Systems Administrator,Ahmedabad,2022-10-09,65144.0,26,2,97.3,11,On Leave
+EMP0109,Employee 109,52.0,Female,IT,IT Support,Delhi,2024-01-06,58098.0,29,3,90.3,29,Resigned
+EMP0110,Employee 110,52.0,Male,,Finance Manager,Mumbai,2018-05-13,58059.0,32,3,92.6,0,On Leave
+EMP0111,Employee 111,26.0,Prefer not to say,Finance,Accountant,Pune,2019-07-10,,6,4,78.9,15,On Leave
+EMP0112,Employee 112,53.0,Prefer not to say,Sales,Account Manager,Bengaluru,2024-11-29,63303.0,31,3,80.7,17,Active
+EMP0113,Employee 113,33.0,Male,Finance,Accountant,Delhi,2023-09-22,58251.0,9,4,99.6,27,Resigned
+EMP0114,Employee 114,53.0,Non-binary,Sales,Sales Manager,Delhi,2019-12-31,55777.0,33,4,84.5,18,On Leave
+EMP0115,Employee 115,30.0,Prefer not to say,Finance,Financial Analyst,Delhi,2022-01-04,54771.0,6,3,96.8,17,Resigned
+EMP0116,Employee 116,41.0,Male,Finance,Finance Manager,Bengaluru,2019-02-12,54555.0,16,3,93.5,24,Resigned
+EMP0117,Employee 117,41.0,Prefer not to say,Human Resources,Recruiter,Pune,2025-05-09,45451.0,18,4,87.4,20,Active
+EMP0118,Employee 118,23.0,Non-binary,Finance,Accountant,Jaipur,2018-06-02,95658.0,0,4,96.4,3,On Leave
+EMP0119,Employee 119,21.0,Prefer not to say,Finance,Finance Manager,Mumbai,2025-02-07,36040.0,0,2,93.3,25,Resigned
+EMP0120,Employee 120,60.0,Female,Sales,Account Manager,Jaipur,2024-10-08,46992.0,35,4,98.0,17,Resigned
+EMP0121,Employee 121,52.0,Female,Sales,Sales Executive,Pune,2023-01-26,45410.0,32,4,91.2,9,Active
+EMP0122,Employee 122,26.0,Female,Operations,Operations Analyst,Mumbai,2021-11-13,53332.0,6,4,98.1,28,Active
+EMP0123,Employee 123,41.0,Non-binary,Human Resources,Recruiter,Delhi,2025-12-06,33117.0,21,3,89.7,7,On Leave
+EMP0124,Employee 124,57.0,Male,Finance,Accountant,Ahmedabad,2024-08-24,58208.0,35,7,87.4,12,On Leave
+EMP0125,Employee 125,36.0,Male,Operations,Operations Associate,Bengaluru,2022-08-01,66643.0,12,4,94.8,14,Resigned
+EMP0126,Employee 126,21.0,Non-binary,Operations,Operations Manager,Hyderabad,2026-01-09,34685.0,0,2,98.4,14,Resigned
+EMP0127,Employee 127,40.0,Non-binary,Marketing,Content Specialist,Jaipur,2024-03-02,76277.0,17,3,99.2,12,Resigned
+EMP0128,Employee 128,36.0,Non-binary,Human Resources,HR Manager,Delhi,2021-04-12,29958.0,12,5,88.6,9,Active
+EMP0129,Employee 129,46.0,Female,IT,IT Manager,Pune,2020-01-30,89510.0,26,3,87.0,28,Resigned
+EMP0130,Employee 130,35.0,Male,IT,IT Manager,Mumbai,2023-10-23,76834.0,13,4,97.4,-3,ON LEAVE
+EMP0131,Employee 131,29.0,Female,IT,Systems Administrator,Jaipur,2024-01-18,55725.0,9,3,91.6,-3,Resigned
+EMP0132,Employee 132,29.0,Non-binary,Operations,Operations Manager,Bengaluru,2018-01-05,24000.0,7,2,84.8,4,On Leave
+EMP0133,Employee 133,54.0,Male,Sales,Account Manager,Jaipur,2022-08-18,51943.0,32,5,83.3,30,Resigned
+EMP0134,Employee 134,42.0,Prefer not to say,Operations,Operations Associate,Mumbai,2026-01-08,65238.0,22,4,82.0,7,On Leave
+EMP0135,Employee 135,46.0,Non-binary,Operations,Operations Associate,Jaipur,2026-06-27,43353.0,22,3,92.9,8,On Leave
+EMP0136,Employee 136,50.0,Non-binary,Human Resources,HR Manager,Bengaluru,2021-02-18,59268.0,25,4,81.9,30,Resigned
+EMP0137,Employee 137,35.0,Non-binary,Human Resources,HR Manager,Mumbai,2022-04-16,56515.0,15,4,92.1,20,Resigned
+EMP0138,Employee 138,40.0,Female,Operations,Operations Associate,Ahmedabad,2024-04-13,37635.0,17,5,95.2,-3,Resigned
+EMP0139,Employee 139,27.0,Male,Human Resources,Recruiter,Bengaluru,2019-08-20,46970.0,3,3,87.8,30,On Leave
+EMP0140,Employee 140,55.0,Male,Operations,Operations Analyst,Pune,2021-09-13,48737.0,31,2,89.3,15,On Leave
+EMP0141,Employee 141,38.0,Non-binary,Finance,Accountant,Bengaluru,2017-05-15,66623.0,13,3,96.6,7,Resigned
+EMP0142,Employee 142,44.0,Non-binary,Human Resources,HR Executive,Bengaluru,2023-02-09,60701.0,19,3,83.3,30,Active
+EMP0143,Employee 143,50.0,Male,IT,IT Manager,Pune,2018-01-11,102848.0,25,3,78.3,0,Active
+EMP0144,Employee 144,42.0,Male,IT,IT Support,Jaipur,2019-09-25,67662.0,21,4,96.1,6,On Leave
+EMP0145,Employee 145,35.0,Female,Engineering,Senior Engineer,Jaipur,2020-09-07,90254.0,14,5,87.6,4,On Leave
+EMP0146,Employee 146,32.0,Female,Sales,Sales Executive,Ahmedabad,2018-03-27,52481.0,7,3,88.5,25,Active
+EMP0147,Employee 147,41.0,Non-binary,Marketing,Marketing Executive,Mumbai,2017-03-06,45257.0,20,4,97.9,16,Active
+EMP0148,Employee 148,25.0,Non-binary,Operations,Operations Manager,Hyderabad,2022-05-05,51770.0,2,2,87.1,16,Active
+EMP0149,Employee 149,23.0,Non-binary,Marketing,Content Specialist,Pune,2025-02-26,62291.0,0,5,94.2,1,Resigned
+EMP0150,Employee 150,46.0,Female,,Systems Administrator,Pune,2021-10-13,82518.0,21,5,96.4,2,Active
+EMP0151,Employee 151,59.0,Male,Sales,Account Manager,Hyderabad,2018-08-31,44969.0,35,4,88.1,17,On Leave
+EMP0152,Employee 152,45.0,Non-binary,Sales,Account Manager,Hyderabad,2023-09-13,64042.0,21,4,96.3,3,On Leave
+EMP0153,Employee 153,56.0,Prefer not to say,Human Resources,Recruiter,Mumbai,2025-01-31,44793.0,35,3,92.8,26,Resigned
+EMP0154,Employee 154,47.0,Non-binary,Finance,Financial Analyst,Delhi,2025-03-08,83270.0,27,4,87.9,11,Active
+EMP0155,Employee 155,51.0,Female,Operations,Operations Associate,Bengaluru,2017-10-02,53777.0,31,2,90.6,23,Resigned
+EMP0156,Employee 156,29.0,Non-binary,IT,IT Manager,Ahmedabad,2023-03-29,66647.0,9,3,99.7,27,On Leave
+EMP0157,Employee 157,48.0,Non-binary,IT,IT Manager,Delhi,2025-02-01,82711.0,28,3,97.7,18,On Leave
+EMP0158,Employee 158,30.0,Male,Engineering,Software Engineer,Delhi,2024-05-13,109412.0,7,4,92.1,11,Active
+EMP0159,Employee 159,38.0,Prefer not to say,IT,IT Manager,Jaipur,2023-06-10,80502.0,17,4,89.8,19,On Leave
+EMP0160,Employee 160,56.0,Non-binary,Operations,Operations Associate,Mumbai,not recorded,51423.0,32,3,91.1,24,Resigned
+EMP0161,Employee 161,43.0,Male,Sales,Sales Manager,Pune,2017-01-26,56173.0,22,3,96.2,4,On Leave
+EMP0162,Employee 162,,Male,Operations,Operations Analyst,Bengaluru,2018-01-11,39359.0,0,3,100.0,5,Resigned
+EMP0163,Employee 163,41.0,Female,Sales,Sales Executive,Mumbai,2025-09-17,42827.0,17,2,83.5,19,Active
+EMP0164,Employee 164,26.0,Prefer not to say,Operations,Operations Analyst,Hyderabad,2020-01-20,60229.0,3,3,97.5,8,Active
+EMP0165,Employee 165,53.0,Prefer not to say,IT,IT Support,Delhi,2018-04-12,79611.0,31,4,96.4,18,Resigned
+EMP0166,Employee 166,40.0,Prefer not to say,Marketing,Marketing Manager,Ahmedabad,2017-07-06,51859.0,19,1,85.7,9,Active
+EMP0167,Employee 167,29.0,Non-binary,IT,Systems Administrator,Ahmedabad,2025-07-28,71167.0,7,1,87.3,23,Resigned
+EMP0168,Employee 168,29.0,Male,Engineering,Engineering Manager,Hyderabad,2021-04-07,103234.0,5,4,91.0,25,Resigned
+EMP0169,Employee 169,46.0,Prefer not to say,Human Resources,HR Executive,Bengaluru,2025-04-28,,26,5,89.8,27,Resigned
+EMP0170,Employee 170,,Prefer not to say,Marketing,Content Specialist,Ahmedabad,2023-06-07,56723.0,25,3,88.1,30,Resigned
+EMP0171,Employee 171,,Non-binary,Engineering,Software Engineer,Bengaluru,2022-02-28,69624.0,35,4,93.7,7,Resigned
+EMP0172,Employee 172,46.0,Prefer not to say,Marketing,Content Specialist,Pune,2022-11-17,54802.0,26,3,88.5,10,Active
+EMP0173,Employee 173,53.0,Male,Human Resources,Recruiter,Delhi,2024-02-07,40336.0,33,4,93.6,26,On Leave
+EMP0174,Employee 174,30.0,Male,IT,Systems Administrator,Mumbai,2019-08-26,47699.0,10,2,82.1,4,On Leave
+EMP0175,Employee 175,32.0,Prefer not to say,Human Resources,Recruiter,Jaipur,2025-09-01,37887.0,7,3,90.5,18,Resigned
+EMP0176,Employee 176,57.0,Non-binary,Operations,Operations Manager,Delhi,2024-03-18,51283.0,32,2,100.0,2,Resigned
+EMP0177,Employee 177,,Female,Finance,Financial Analyst,Hyderabad,2025-12-06,77264.0,18,2,90.9,14,Resigned
+EMP0178,Employee 178,24.0,Female,Human Resources,HR Manager,Jaipur,2021-02-19,44811.0,2,5,85.0,2,On Leave
+EMP0179,Employee 179,53.0,Female,Marketing,Content Specialist,Jaipur,2021-04-24,51788.0,30,3,90.0,6,Resigned
+EMP0180,Employee 180,51.0,Female,Marketing,Content Specialist,Ahmedabad,2022-08-16,55691.0,30,4,86.2,26,Resigned
+EMP0181,Employee 181,26.0,Male,Operations,Operations Associate,Mumbai,2022-08-29,53484.0,1,4,100.0,14,On Leave
+EMP0182,Employee 182,60.0,Non-binary,Marketing,Content Specialist,Bengaluru,2018-10-13,50755.0,35,3,94.8,10,On Leave
+EMP0183,Employee 183,24.0,Non-binary,Marketing,Marketing Executive,Delhi,2025-11-07,59895.0,0,2,89.2,21,Resigned
+EMP0184,Employee 184,,Male,Sales,Account Manager,Ahmedabad,2025-02-12,57711.0,12,3,92.1,4,Resigned
+EMP0185,Employee 185,46.0,Female,Sales,Account Manager,Hyderabad,2018-06-13,56181.0,22,3,86.6,25,Resigned
+EMP0186,Employee 186,29.0,Female,IT,IT Manager,Pune,2024-07-07,70377.0,4,3,95.5,11,Active
+EMP0187,Employee 187,40.0,Non-binary,Sales,Account Manager,Mumbai,2019-01-09,72558.0,19,3,98.7,4,Active
+EMP0188,Employee 188,39.0,Female,Human Resources,HR Manager,Delhi,2026-06-21,66316.0,19,4,86.6,19,Active
+EMP0189,Employee 189,45.0,Male,Marketing,Marketing Manager,Jaipur,2018-09-24,61979.0,24,4,93.3,28,Active
+EMP0190,Employee 190,49.0,Non-binary,Operations,Operations Manager,Pune,2017-06-28,71124.0,26,3,86.3,14,On Leave
+EMP0191,Employee 191,49.0,Male,Sales,Account Manager,Jaipur,2019-08-17,44839.0,25,4,87.8,28,Active
+EMP0192,Employee 192,57.0,Non-binary,Sales,Account Manager,Hyderabad,2021-12-10,29300.0,34,3,88.3,30,Active
+EMP0193,Employee 193,,Male,IT,Systems Administrator,Ahmedabad,2025-12-26,58309.0,9,4,93.1,27,Resigned
+EMP0194,Employee 194,27.0,Female,Marketing,Content Specialist,Ahmedabad,2024-12-23,55909.0,3,4,100.0,8,Resigned
+EMP0195,Employee 195,30.0,Female,Marketing,Marketing Executive,Jaipur,2026-04-27,62872.0,7,3,88.0,11,Active
+EMP0196,Employee 196,24.0,Non-binary,Finance,Accountant,Bengaluru,2021-06-12,52152.0,0,5,125.0,11,Active
+EMP0197,Employee 197,,Non-binary,Human Resources,HR Executive,Mumbai,2018-02-10,31929.0,16,1,100.0,29,Resigned
+EMP0198,Employee 198,29.0,Prefer not to say,Operations,Operations Analyst,Hyderabad,2025-07-06,60454.0,4,1,88.7,2,Active
+EMP0199,Employee 199,34.0,Prefer not to say,Sales,Sales Executive,Jaipur,2026-05-14,34271.0,13,3,100.0,9,Active
+EMP0200,Employee 200,36.0,Prefer not to say,Human Resources,HR Executive,Ahmedabad,2021-09-16,,11,4,100.0,15,On Leave
+EMP0201,Employee 201,22.0,Male,Marketing,Marketing Manager,Mumbai,not recorded,33759.0,0,3,87.8,0,On Leave
+EMP0202,Employee 202,36.0,Male,Sales,Sales Manager,Pune,2023-05-27,55063.0,13,2,92.3,11,Active
+EMP0203,Employee 203,55.0,Female,Marketing,Content Specialist,Jaipur,2022-09-10,46851.0,31,3,96.4,20,Resigned
+EMP0204,Employee 204,,Non-binary,Sales,Sales Executive,Delhi,2025-05-20,42081.0,17,3,125.0,21,On Leave
+EMP0205,Employee 205,58.0,Male,Human Resources,HR Executive,Delhi,2025-03-31,46190.0,35,3,95.6,-3,On Leave
+EMP0206,Employee 206,50.0,Male,Engineering,Software Engineer,Ahmedabad,2024-10-19,98307.0,27,4,84.1,30,Resigned
+EMP0207,Employee 207,39.0,Male,Human Resources,HR Executive,Delhi,2019-04-06,29812.0,19,5,100.0,16,Resigned
+EMP0208,Employee 208,55.0,Female,IT,IT Manager,Mumbai,2022-04-24,75117.0,33,3,86.8,27,Active
+EMP0209,Employee 209,42.0,Non-binary,IT,Systems Administrator,Bengaluru,2020-01-25,93887.0,22,4,92.8,28,Resigned
+EMP0210,Employee 210,32.0,Prefer not to say,Sales,Account Manager,Jaipur,2022-07-26,69269.0,7,3,92.5,25,Active
+EMP0211,Employee 211,48.0,Male,Operations,Operations Manager,Delhi,2017-11-20,69761.0,25,3,100.0,2,Resigned
+EMP0212,Employee 212,,Prefer not to say,Operations,Operations Associate,Pune,2020-06-09,45370.0,16,3,98.8,14,Active
+EMP0213,Employee 213,43.0,Non-binary,Operations,Operations Manager,Jaipur,2023-11-24,54815.0,20,5,100.0,2,On Leave
+EMP0214,Employee 214,46.0,Male,Operations,Operations Associate,Mumbai,2021-01-28,37810.0,22,4,96.8,21,Resigned
+EMP0215,Employee 215,29.0,Non-binary,Human Resources,Recruiter,Bengaluru,2017-10-03,55478.0,8,5,79.7,1,On Leave
+EMP0216,Employee 216,49.0,Prefer not to say,Engineering,Software Engineer,Hyderabad,2021-02-28,62873.0,27,2,77.7,11,Resigned
+EMP0217,Employee 217,38.0,Female,Sales,Sales Manager,Mumbai,2019-10-20,51740.0,18,3,97.0,12,On Leave
+EMP0218,Employee 218,37.0,Prefer not to say,Human Resources,HR Executive,Hyderabad,2025-09-10,59873.0,15,3,92.5,29,Resigned
+EMP0219,Employee 219,28.0,Prefer not to say,Engineering,Software Engineer,Pune,2018-07-10,115455.0,8,3,82.3,2,On Leave
+EMP0220,Employee 220,41.0,Female,it,IT Manager,Hyderabad,2024-06-28,43767.0,19,3,91.6,9,Active
+EMP0221,Employee 221,32.0,Male,Operations,Operations Associate,Mumbai,2025-11-25,52055.0,10,4,91.8,-3,Resigned
+EMP0222,Employee 222,44.0,Non-binary,Human Resources,Recruiter,Jaipur,2023-03-20,24532.0,20,5,91.4,4,On Leave
+EMP0223,Employee 223,25.0,Prefer not to say,Human Resources,HR Manager,Bengaluru,2020-06-20,32085.0,2,4,96.7,26,On Leave
+EMP0224,Employee 224,29.0,Female,Human Resources,Recruiter,Bengaluru,2020-07-22,48629.0,4,4,85.4,11,Active
+EMP0225,Employee 225,56.0,Male,IT,IT Support,Bengaluru,2024-03-05,62086.0,32,7,84.6,27,Active
+EMP0226,Employee 226,28.0,Non-binary,IT,IT Support,Mumbai,2022-10-24,69034.0,7,3,98.7,22,Active
+EMP0227,Employee 227,54.0,Non-binary,Sales,Sales Executive,Pune,2020-03-09,43072.0,34,5,125.0,8,Active
+EMP0228,Employee 228,40.0,Female,Operations,Operations Manager,Pune,2023-11-22,42400.0,16,2,86.4,30,On Leave
+EMP0229,Employee 229,31.0,Non-binary,Engineering,Engineering Manager,Ahmedabad,2024-05-22,82998.0,7,4,84.8,0,Active
+EMP0230,Employee 230,57.0,Male,Human Resources,HR Manager,Bengaluru,2019-12-21,39518.0,32,4,83.6,0,Resigned
+EMP0231,Employee 231,55.0,Non-binary,Operations,Operations Analyst,Mumbai,2020-04-01,68747.0,30,4,92.2,21,Resigned
+EMP0232,Employee 232,50.0,Female,Sales,Sales Executive,Bengaluru,2017-10-26,46533.0,25,3,93.5,14,Active
+EMP0233,Employee 233,59.0,Non-binary,sales,Sales Manager,Jaipur,2018-08-12,53640.0,35,3,90.5,12,Active
+EMP0234,Employee 234,44.0,Female,IT,Systems Administrator,Mumbai,2022-10-11,79458.0,20,3,97.3,8,Resigned
+EMP0235,Employee 235,30.0,Non-binary,Engineering,Senior Engineer,Jaipur,2018-02-01,75079.0,10,4,88.0,7,Active
+EMP0236,Employee 236,41.0,Non-binary,IT,IT Support,Jaipur,2023-06-25,65764.0,16,2,75.9,16,Resigned
+EMP0237,Employee 237,40.0,Female,Finance,Financial Analyst,Hyderabad,2022-07-31,43332.0,20,3,100.0,7,Active
+EMP0238,Employee 238,43.0,Non-binary,Marketing,Content Specialist,Hyderabad,2017-07-19,70818.0,23,4,90.3,20,On Leave
+EMP0239,Employee 239,39.0,Female,Finance,Financial Analyst,Mumbai,2023-01-08,73244.0,19,4,94.2,23,Resigned
+EMP0240,Employee 240,46.0,Prefer not to say,,IT Support,Hyderabad,2021-02-07,117414.0,26,3,99.8,11,On Leave
+EMP0241,Employee 241,25.0,Prefer not to say,Sales,Sales Manager,Delhi,2021-05-02,,1,4,85.3,19,On Leave
+EMP0242,Employee 242,28.0,Prefer not to say,Marketing,Content Specialist,Jaipur,2018-06-12,33622.0,8,5,93.4,17,Resigned
+EMP0243,Employee 243,30.0,Prefer not to say,IT,IT Manager,Ahmedabad,2019-03-27,58352.0,6,1,82.0,4,On Leave
+EMP0244,Employee 244,51.0,Male,Sales,Sales Manager,Hyderabad,2022-10-29,47176.0,28,2,84.4,29,On Leave
+EMP0245,Employee 245,31.0,Non-binary,Sales,Sales Manager,Delhi,2021-05-29,75414.0,7,3,98.2,16,On Leave
+EMP0246,Employee 246,57.0,Female,finance,Financial Analyst,Delhi,2020-05-12,64885.0,34,4,100.0,13,On Leave
+EMP0247,Employee 247,22.0,Non-binary,,Sales Manager,Jaipur,2023-09-11,55936.0,0,5,86.0,18,On Leave
+EMP0248,Employee 248,24.0,Male,Engineering,Engineering Manager,Pune,2023-07-19,113482.0,1,4,95.8,24,Resigned
+EMP0249,Employee 249,36.0,Female,Engineering,Software Engineer,Ahmedabad,2017-05-10,65603.0,12,3,90.7,13,Active
+EMP0250,Employee 250,34.0,Prefer not to say,Finance,Finance Manager,Pune,2021-08-08,52478.0,10,2,82.3,4,On Leave
+EMP0251,Employee 251,56.0,Prefer not to say,Engineering,Engineering Manager,Bengaluru,not recorded,102319.0,31,3,100.0,5,Resigned
+EMP0252,Employee 252,42.0,Non-binary,Marketing,Marketing Manager,Bengaluru,2023-02-16,36000.0,20,2,95.9,7,Resigned
+EMP0253,Employee 253,40.0,Non-binary,Marketing,Marketing Manager,Mumbai,2019-07-11,44556.0,18,4,88.6,15,Resigned
+EMP0254,Employee 254,43.0,Non-binary,Finance,Financial Analyst,Ahmedabad,2023-04-15,56528.0,18,3,86.0,17,Resigned
+EMP0255,Employee 255,43.0,Non-binary,Finance,Accountant,Delhi,2025-09-02,65693.0,22,5,86.2,2,Resigned
+EMP0256,Employee 256,37.0,Male,Finance,Accountant,Jaipur,2025-05-20,68867.0,14,3,91.6,29,On Leave
+EMP0257,Employee 257,38.0,Male,Operations,Operations Associate,Ahmedabad,2018-07-17,45476.0,18,4,85.6,16,Active
+EMP0258,Employee 258,35.0,Prefer not to say,Operations,Operations Analyst,Pune,2017-08-04,41909.0,15,3,97.3,21,Active
+EMP0259,Employee 259,56.0,Prefer not to say,Human Resources,Recruiter,Pune,2018-10-09,49959.0,33,2,85.2,30,Resigned
+EMP0260,Employee 260,39.0,Female,Sales,Sales Manager,Hyderabad,2024-03-30,56201.0,19,3,97.3,23,On Leave
+EMP0261,Employee 261,23.0,Male,,IT Support,Jaipur,2018-12-19,44291.0,0,3,95.8,15,Active
+EMP0262,Employee 262,39.0,Non-binary,Operations,Operations Manager,Hyderabad,2017-06-03,41002.0,19,2,96.0,10,Resigned
+EMP0263,Employee 263,55.0,Male,Finance,Finance Manager,Bengaluru,2022-11-18,54085.0,32,3,79.4,25,Active
+EMP0264,Employee 264,31.0,Non-binary,Sales,Sales Manager,Mumbai,2025-03-14,35306.0,8,1,92.3,10,Resigned
+EMP0265,Employee 265,,Prefer not to say,Marketing,Content Specialist,Hyderabad,not recorded,54971.0,9,3,85.7,12,On Leave
+EMP0266,Employee 266,32.0,Non-binary,Human Resources,HR Executive,Ahmedabad,2018-07-30,51322.0,9,3,80.4,7,Resigned
+EMP0267,Employee 267,38.0,Female,IT,Systems Administrator,Pune,2020-09-12,68982.0,16,3,83.5,7,Active
+EMP0268,Employee 268,28.0,Male,operations,Operations Analyst,Pune,2022-03-22,41116.0,6,3,92.3,28,On Leave
+EMP0269,Employee 269,40.0,Non-binary,IT,Systems Administrator,Hyderabad,2024-09-28,56749.0,20,3,89.3,30,Active
+EMP0270,Employee 270,30.0,Non-binary,Finance,Financial Analyst,Pune,2022-02-07,79389.0,5,7,88.0,15,On Leave
+EMP0271,Employee 271,34.0,Female,IT,IT Manager,Bengaluru,2025-07-18,82869.0,13,3,84.1,11,Active
+EMP0272,Employee 272,28.0,Male,Marketing,Marketing Manager,Hyderabad,2017-09-10,58060.0,4,2,100.0,10,On Leave
+EMP0273,Employee 273,28.0,Prefer not to say,Finance,Accountant,Hyderabad,2024-08-18,29655.0,7,3,86.4,1,Resigned
+EMP0274,Employee 274,53.0,Female,Engineering,Engineering Manager,Bengaluru,2021-08-29,,30,4,90.6,9,On Leave
+EMP0275,Employee 275,46.0,Male,human resources,HR Manager,Ahmedabad,2019-11-09,48674.0,26,1,87.8,11,On Leave
+EMP0276,Employee 276,55.0,Prefer not to say,Human Resources,HR Executive,Delhi,2017-09-04,45857.0,35,3,90.9,24,Active
+EMP0277,Employee 277,47.0,Prefer not to say,IT,Systems Administrator,Bengaluru,2021-03-14,87983.0,24,2,93.8,30,ON LEAVE
+EMP0278,Employee 278,55.0,Non-binary,IT,IT Support,Mumbai,2018-06-29,,30,5,89.1,12,On Leave
+EMP0279,Employee 279,35.0,Female,Engineering,Senior Engineer,Bengaluru,2026-05-13,75881.0,15,4,89.0,17,Resigned
+EMP0280,Employee 280,45.0,Male,Marketing,Content Specialist,Delhi,2026-03-27,56512.0,24,2,89.1,6,On Leave
+EMP0281,Employee 281,28.0,Prefer not to say,IT,IT Manager,Jaipur,not recorded,74462.0,3,5,100.0,28,Active
+EMP0282,Employee 282,34.0,Female,Engineering,Senior Engineer,Hyderabad,2017-10-03,101290.0,14,4,89.7,27,Active
+EMP0283,Employee 283,23.0,Male,Engineering,Engineering Manager,Mumbai,2021-07-06,107462.0,0,4,89.1,24,Active
+EMP0284,Employee 284,53.0,Non-binary,Engineering,Engineering Manager,Hyderabad,2020-03-30,46887.0,32,4,84.9,26,Resigned
+EMP0285,Employee 285,40.0,Male,Engineering,Senior Engineer,Delhi,2018-08-10,50016.0,15,3,89.5,17,ON LEAVE
+EMP0286,Employee 286,32.0,Prefer not to say,Operations,Operations Manager,Bengaluru,2024-01-09,48194.0,7,1,100.0,11,On Leave
+EMP0287,Employee 287,45.0,Non-binary,Operations,Operations Manager,Bengaluru,2025-10-24,51452.0,21,7,90.5,9,Resigned
+EMP0288,Employee 288,55.0,Male,Engineering,Senior Engineer,Jaipur,2022-04-24,100509.0,34,4,76.5,25,Resigned
+EMP0289,Employee 289,56.0,Male,human resources,Recruiter,Mumbai,2021-08-18,47332.0,33,3,97.4,10,On Leave
+EMP0290,Employee 290,49.0,Female,Human Resources,HR Manager,Pune,2026-07-02,,27,4,100.0,1,Resigned
+EMP0291,Employee 291,59.0,Female,Finance,Accountant,Jaipur,2023-10-06,69840.0,35,4,89.1,23,On Leave
+EMP0292,Employee 292,34.0,Non-binary,Marketing,Content Specialist,Ahmedabad,2022-05-18,59239.0,13,3,100.0,6,On Leave
+EMP0293,Employee 293,51.0,Male,Human Resources,Recruiter,Mumbai,2019-09-21,46800.0,26,3,93.7,24,Resigned
+EMP0294,Employee 294,50.0,Non-binary,Finance,Financial Analyst,Delhi,not recorded,58431.0,25,3,86.1,28,Resigned
+EMP0295,Employee 295,27.0,Prefer not to say,Finance,Financial Analyst,Mumbai,2026-01-02,76873.0,2,3,86.0,13,Active
+EMP0296,Employee 296,35.0,Female,Marketing,Content Specialist,Hyderabad,2025-04-25,52818.0,14,5,88.7,18,On Leave
+EMP0297,Employee 297,39.0,Non-binary,finance,Accountant,Bengaluru,2018-09-17,71849.0,18,3,94.3,7,Resigned
+EMP0298,Employee 298,42.0,Prefer not to say,Marketing,Content Specialist,Mumbai,2019-11-21,63869.0,19,4,88.4,11,Active
+EMP0299,Employee 299,55.0,Female,Engineering,Engineering Manager,Ahmedabad,2022-06-24,79953.0,34,4,85.1,2,On Leave
+EMP0300,Employee 300,21.0,Male,Human Resources,HR Executive,Pune,2021-08-17,40601.0,0,2,94.6,6,On Leave
+EMP0301,Employee 301,44.0,Prefer not to say,Finance,Finance Manager,Bengaluru,2017-09-05,75824.0,20,1,85.5,17,On Leave
+EMP0302,Employee 302,21.0,Non-binary,Finance,Finance Manager,Delhi,2017-03-10,77435.0,0,1,100.0,26,On Leave
+EMP0303,Employee 303,48.0,Female,operations,Operations Associate,Hyderabad,2026-01-16,52365.0,27,2,100.0,6,On Leave
+EMP0304,Employee 304,37.0,Non-binary,Marketing,Content Specialist,Ahmedabad,2026-02-22,43147.0,15,3,83.3,12,Resigned
+EMP0305,Employee 305,36.0,Non-binary,Marketing,Marketing Manager,Jaipur,2024-10-26,31651.0,15,7,125.0,20,On Leave
+EMP0306,Employee 306,23.0,Prefer not to say,IT,Systems Administrator,Hyderabad,2018-01-18,80077.0,0,3,91.6,20,Active
+EMP0307,Employee 307,31.0,Prefer not to say,Operations,Operations Manager,Jaipur,2017-12-05,50956.0,8,3,84.1,27,Active
+EMP0308,Employee 308,23.0,Prefer not to say,Marketing,Content Specialist,Ahmedabad,2019-07-31,79979.0,2,5,92.9,21,Resigned
+EMP0309,Employee 309,57.0,Male,Marketing,Content Specialist,Ahmedabad,2024-05-19,,35,5,97.1,18,Active
+EMP0310,Employee 310,46.0,Male,IT,IT Manager,Mumbai,2017-11-12,77407.0,24,3,93.6,27,Resigned
+EMP0311,Employee 311,55.0,Male,Operations,Operations Manager,Pune,2020-09-20,39652.0,32,2,95.3,23,Resigned
+EMP0312,Employee 312,27.0,Female,human resources,Recruiter,Hyderabad,2021-11-26,,6,4,100.0,30,On Leave
+EMP0313,Employee 313,41.0,Non-binary,Finance,Financial Analyst,Bengaluru,2017-05-02,87782.0,16,3,88.4,17,Resigned
+EMP0314,Employee 314,32.0,Prefer not to say,Finance,Accountant,Jaipur,2024-08-16,50848.0,8,4,91.1,25,ACTIVE
+EMP0315,Employee 315,25.0,Male,Operations,Operations Analyst,Pune,2017-12-03,48588.0,3,4,99.7,4,On Leave
+EMP0316,Employee 316,41.0,Female,Finance,Accountant,Delhi,2021-01-17,40797.0,21,3,100.0,24,RESIGNED
+EMP0317,Employee 317,29.0,Prefer not to say,Human Resources,Recruiter,Hyderabad,2017-12-24,43435.0,8,3,89.0,13,Active
+EMP0318,Employee 318,26.0,Female,,HR Manager,Hyderabad,2020-12-20,34980.0,2,4,80.4,27,Resigned
+EMP0319,Employee 319,39.0,Female,Human Resources,HR Manager,Hyderabad,2021-08-22,53149.0,16,5,92.5,7,On Leave
+EMP0320,Employee 320,31.0,Male,Marketing,Marketing Executive,Delhi,2024-09-08,37242.0,8,3,82.9,15,Active
+EMP0321,Employee 321,31.0,Prefer not to say,Human Resources,Recruiter,Bengaluru,2021-11-16,,9,4,100.0,11,Resigned
+EMP0322,Employee 322,52.0,Male,Engineering,Senior Engineer,Ahmedabad,2023-08-30,80145.0,28,2,81.5,0,RESIGNED
+EMP0323,Employee 323,60.0,Prefer not to say,Sales,Account Manager,Bengaluru,2021-04-06,52026.0,35,4,90.1,27,On Leave
+EMP0324,Employee 324,29.0,Male,Marketing,Content Specialist,Delhi,2020-05-15,,7,2,91.6,12,Resigned
+EMP0325,Employee 325,52.0,Non-binary,Sales,Account Manager,Delhi,2023-06-17,52205.0,31,4,96.9,12,Resigned
+EMP0326,Employee 326,57.0,Male,Human Resources,HR Manager,Jaipur,2019-03-30,63304.0,33,3,99.9,30,On Leave
+EMP0327,Employee 327,34.0,Female,Finance,Financial Analyst,Pune,2021-12-01,61154.0,12,3,84.3,20,Resigned
+EMP0328,Employee 328,37.0,Prefer not to say,Engineering,Senior Engineer,Ahmedabad,2024-05-21,133121.0,16,3,92.4,19,Resigned
+EMP0329,Employee 329,46.0,Prefer not to say,Marketing,Marketing Manager,Ahmedabad,2022-12-29,52159.0,22,4,91.8,11,On Leave
+EMP0330,Employee 330,,Female,it,IT Support,Jaipur,2023-08-30,73050.0,30,7,91.0,21,Resigned
+EMP0331,Employee 331,60.0,Prefer not to say,Engineering,Senior Engineer,Jaipur,2017-07-01,74272.0,35,3,88.2,0,Active
+EMP0332,Employee 332,35.0,Male,Sales,Account Manager,Delhi,2022-09-23,54603.0,10,3,88.2,24,On Leave
+EMP0333,Employee 333,53.0,Female,Marketing,Content Specialist,Ahmedabad,not recorded,43845.0,31,3,92.7,29,Active
+EMP0334,Employee 334,30.0,Non-binary,Human Resources,Recruiter,Jaipur,2020-11-27,42475.0,8,3,100.0,15,Resigned
+EMP0335,Employee 335,27.0,Prefer not to say,Finance,Financial Analyst,Ahmedabad,2021-11-30,27091.0,2,3,99.6,25,On Leave
+EMP0336,Employee 336,22.0,Female,Human Resources,HR Manager,Jaipur,2026-07-11,57336.0,0,2,77.5,23,Active
+EMP0337,Employee 337,32.0,Non-binary,Marketing,Marketing Manager,Bengaluru,2023-03-11,48079.0,11,5,89.4,7,Resigned
+EMP0338,Employee 338,,Prefer not to say,Operations,Operations Analyst,Ahmedabad,2019-02-03,33136.0,7,4,86.6,28,Active
+EMP0339,Employee 339,58.0,Female,Finance,Finance Manager,Mumbai,2021-10-26,49118.0,35,3,100.0,24,On Leave
+EMP0340,Employee 340,25.0,Male,IT,Systems Administrator,Delhi,2023-06-23,84409.0,5,2,100.0,3,Resigned
+EMP0341,Employee 341,52.0,Non-binary,Operations,Operations Manager,Bengaluru,2022-12-02,,27,4,125.0,18,Active
+EMP0342,Employee 342,43.0,Male,Sales,Sales Manager,Pune,2026-06-26,48653.0,20,4,95.4,-3,ON LEAVE
+EMP0343,Employee 343,26.0,Non-binary,Marketing,Marketing Executive,Mumbai,2024-07-15,38018.0,5,3,97.0,5,Resigned
+EMP0344,Employee 344,30.0,Prefer not to say,Operations,Operations Manager,Mumbai,2022-09-24,45462.0,7,3,89.4,13,Active
+EMP0345,Employee 345,55.0,Male,Finance,Finance Manager,Mumbai,2024-10-11,75166.0,30,3,95.1,4,Active
+EMP0346,Employee 346,,Non-binary,Sales,Sales Executive,Bengaluru,2023-12-13,50632.0,29,2,100.0,26,Resigned
+EMP0347,Employee 347,53.0,Prefer not to say,,Marketing Manager,Bengaluru,2024-04-28,39632.0,30,3,96.3,26,Resigned
+EMP0348,Employee 348,31.0,Female,Finance,Accountant,Delhi,2017-12-05,73481.0,7,1,89.8,7,On Leave
+EMP0349,Employee 349,31.0,Prefer not to say,Sales,Sales Manager,Hyderabad,2025-10-03,58946.0,8,2,83.2,3,Resigned
+EMP0350,Employee 350,55.0,Female,IT,IT Manager,Bengaluru,2026-03-27,84230.0,33,3,90.7,13,Active
+EMP0351,Employee 351,36.0,Prefer not to say,Operations,Operations Analyst,Delhi,2020-05-04,42480.0,16,4,99.3,2,Resigned
+EMP0352,Employee 352,28.0,Male,IT,IT Manager,Hyderabad,2025-09-12,59153.0,7,4,82.1,27,On Leave
+EMP0353,Employee 353,48.0,Male,Marketing,Marketing Executive,Jaipur,2018-11-11,34192.0,24,3,96.2,1,On Leave
+EMP0354,Employee 354,55.0,Male,Sales,Account Manager,Pune,2020-02-26,39506.0,31,3,100.0,18,Resigned
+EMP0355,Employee 355,53.0,Male,IT,Systems Administrator,Ahmedabad,2024-08-14,37938.0,33,5,100.0,27,On Leave
+EMP0356,Employee 356,29.0,Non-binary,Engineering,Software Engineer,Jaipur,2019-10-20,88946.0,8,4,91.3,12,Resigned
+EMP0357,Employee 357,57.0,Prefer not to say,Engineering,Senior Engineer,Bengaluru,2024-02-04,74810.0,35,2,94.8,25,Active
+EMP0358,Employee 358,53.0,Non-binary,Finance,Financial Analyst,Bengaluru,2025-05-30,,31,3,99.7,0,On Leave
+EMP0359,Employee 359,50.0,Non-binary,Human Resources,HR Executive,Jaipur,2024-02-14,46130.0,25,3,93.1,6,Resigned
+EMP0360,Employee 360,34.0,Non-binary,IT,Systems Administrator,Delhi,2022-07-20,64400.0,12,3,91.6,4,On Leave
+EMP0361,Employee 361,52.0,Female,IT,IT Support,Ahmedabad,2025-11-03,74740.0,30,4,80.0,26,Resigned
+EMP0362,Employee 362,28.0,Prefer not to say,Human Resources,HR Executive,Bengaluru,2018-10-10,31652.0,5,3,97.2,22,Active
+EMP0363,Employee 363,40.0,Female,Operations,Operations Manager,Delhi,2018-10-14,49804.0,18,3,90.7,11,On Leave
+EMP0364,Employee 364,31.0,Non-binary,Operations,Operations Manager,Pune,2017-08-01,48194.0,8,4,94.4,13,On Leave
+EMP0365,Employee 365,27.0,Prefer not to say,Human Resources,HR Executive,Mumbai,2017-01-05,39656.0,6,3,86.6,16,On Leave
+EMP0366,Employee 366,21.0,Non-binary,Finance,Accountant,Jaipur,2017-02-03,67800.0,0,3,85.2,4,Resigned
+EMP0367,Employee 367,35.0,Female,Human Resources,HR Executive,Delhi,2021-04-19,49041.0,15,3,80.1,9,ACTIVE
+EMP0368,Employee 368,29.0,Male,,Accountant,Hyderabad,2024-03-12,79716.0,4,3,95.3,19,On Leave
+EMP0369,Employee 369,49.0,Male,Engineering,Engineering Manager,Pune,2020-12-09,89787.0,24,2,98.9,13,ON LEAVE
+EMP0370,Employee 370,49.0,Female,Operations,Operations Associate,Jaipur,2019-06-09,65587.0,29,2,99.1,23,Resigned
+EMP0371,Employee 371,48.0,Male,Sales,Account Manager,Pune,2020-07-12,32725.0,27,2,83.0,17,On Leave
+EMP0372,Employee 372,59.0,Female,Marketing,Marketing Manager,Delhi,2020-03-13,44852.0,34,3,92.2,19,On Leave
+EMP0373,Employee 373,46.0,Female,Engineering,Software Engineer,Bengaluru,2020-04-25,94680.0,21,3,86.9,7,Resigned
+EMP0374,Employee 374,59.0,Female,Operations,Operations Analyst,Delhi,2017-10-18,49972.0,35,2,86.7,27,On Leave
+EMP0375,Employee 375,44.0,Male,Finance,Financial Analyst,Jaipur,2023-02-16,56255.0,19,2,82.2,18,Active
+EMP0376,Employee 376,37.0,Female,Human Resources,Recruiter,Hyderabad,2019-06-03,35859.0,17,3,82.5,22,On Leave
+EMP0377,Employee 377,47.0,Prefer not to say,IT,IT Support,Pune,2021-10-01,54971.0,22,3,99.4,19,Active
+EMP0378,Employee 378,26.0,Male,Sales,Sales Executive,Hyderabad,2020-06-23,43512.0,6,3,100.0,18,On Leave
+EMP0379,Employee 379,25.0,Prefer not to say,IT,IT Manager,Jaipur,2020-06-24,77597.0,0,7,93.3,7,Active
+EMP0380,Employee 380,28.0,Female,Finance,Financial Analyst,Pune,2022-02-01,52725.0,4,4,96.9,23,Active
+EMP0381,Employee 381,21.0,Female,Human Resources,HR Executive,Bengaluru,2024-12-09,39301.0,0,5,92.9,16,On Leave
+EMP0382,Employee 382,37.0,Male,IT,IT Manager,Jaipur,2018-11-15,109425.0,15,4,91.3,23,Active
+EMP0383,Employee 383,22.0,Non-binary,IT,IT Manager,Ahmedabad,2020-10-04,87698.0,0,3,87.1,18,On Leave
+EMP0384,Employee 384,52.0,Non-binary,Human Resources,HR Executive,Bengaluru,2022-02-08,44653.0,28,4,100.0,5,Resigned
+EMP0385,Employee 385,37.0,Female,Engineering,Software Engineer,Pune,2025-09-03,73275.0,17,3,100.0,1,Active
+EMP0386,Employee 386,23.0,Prefer not to say,Engineering,Software Engineer,Mumbai,2022-04-17,98234.0,1,5,88.1,27,Active
+EMP0387,Employee 387,47.0,Male,,Content Specialist,Pune,2019-07-09,59234.0,25,3,98.8,26,Active
+EMP0388,Employee 388,44.0,Female,Marketing,Marketing Executive,Mumbai,2018-05-05,59113.0,20,4,81.0,1,Resigned
+EMP0389,Employee 389,50.0,Non-binary,Human Resources,HR Executive,Hyderabad,2020-03-02,37801.0,28,3,90.3,11,Active
+EMP0390,Employee 390,57.0,Male,Sales,Account Manager,Delhi,2025-10-19,54099.0,35,3,96.3,15,Active
+EMP0391,Employee 391,55.0,Male,Operations,Operations Associate,Bengaluru,2025-07-12,49876.0,34,1,82.7,17,Resigned
+EMP0392,Employee 392,21.0,Prefer not to say,Operations,Operations Manager,Pune,2020-10-04,52014.0,1,3,96.3,6,On Leave
+EMP0393,Employee 393,47.0,Male,Engineering,Engineering Manager,Delhi,not recorded,95468.0,27,2,99.6,29,Active
+EMP0394,Employee 394,54.0,Non-binary,IT,Systems Administrator,Pune,2021-08-19,82842.0,29,2,95.2,3,On Leave
+EMP0395,Employee 395,46.0,Female,Engineering,Senior Engineer,Pune,2017-11-03,83687.0,22,5,80.4,7,Resigned
+EMP0396,Employee 396,41.0,Non-binary,Sales,Account Manager,Bengaluru,2025-12-25,60198.0,18,3,93.5,2,Active
+EMP0397,Employee 397,58.0,Female,Engineering,Software Engineer,Bengaluru,2018-03-23,90078.0,35,3,83.1,13,Active
+EMP0398,Employee 398,,Prefer not to say,Marketing,Content Specialist,Bengaluru,2025-08-22,39632.0,22,3,99.4,3,Active
+EMP0399,Employee 399,40.0,Female,Engineering,Software Engineer,Jaipur,2026-04-08,84260.0,15,4,96.8,4,Active
+EMP0400,Employee 400,36.0,Female,Operations,Operations Manager,Delhi,2020-12-28,48299.0,13,3,92.2,5,Active
+EMP0401,Employee 401,49.0,Male,Finance,Accountant,Bengaluru,2023-03-28,78417.0,24,2,88.4,25,Active
+EMP0402,Employee 402,21.0,Male,,HR Executive,Jaipur,2017-09-10,45951.0,0,3,125.0,21,On Leave
+EMP0403,Employee 403,26.0,Non-binary,Operations,Operations Associate,Ahmedabad,2023-07-14,43411.0,2,5,89.8,6,On Leave
+EMP0404,Employee 404,29.0,Female,Finance,Accountant,Bengaluru,2018-01-12,68176.0,7,2,88.6,29,On Leave
+EMP0405,Employee 405,46.0,Prefer not to say,Finance,Finance Manager,Bengaluru,2022-07-26,82957.0,26,2,85.7,6,Active
+EMP0406,Employee 406,38.0,Female,Sales,Sales Manager,Hyderabad,2022-01-01,,17,4,88.9,20,Resigned
+EMP0407,Employee 407,47.0,Female,Finance,Accountant,Delhi,2023-03-06,85691.0,24,3,93.4,13,Active
+EMP0408,Employee 408,54.0,Female,Operations,Operations Analyst,Jaipur,2019-10-18,58896.0,29,4,81.6,15,On Leave
+EMP0409,Employee 409,52.0,Non-binary,IT,Systems Administrator,Delhi,2020-11-10,74112.0,28,2,98.2,10,On Leave
+EMP0410,Employee 410,22.0,Female,Engineering,Senior Engineer,Hyderabad,2026-02-03,86538.0,0,7,99.5,18,Active
+EMP0411,Employee 411,27.0,Male,Engineering,Senior Engineer,Hyderabad,2019-10-13,75326.0,2,4,100.0,29,On Leave
+EMP0412,Employee 412,35.0,Non-binary,Human Resources,HR Executive,Mumbai,2023-06-17,67759.0,12,3,89.5,10,On Leave
+EMP0413,Employee 413,43.0,Non-binary,Operations,Operations Manager,Hyderabad,2023-08-21,43295.0,23,2,100.0,30,Active
+EMP0414,Employee 414,52.0,Male,IT,Systems Administrator,Ahmedabad,2023-01-30,94325.0,30,2,125.0,7,On Leave
+EMP0415,Employee 415,22.0,Female,Engineering,Senior Engineer,Hyderabad,2022-11-27,77142.0,0,3,90.0,4,Resigned
+EMP0416,Employee 416,32.0,Female,Operations,Operations Associate,Mumbai,2025-12-31,33802.0,10,3,85.6,29,Active
+EMP0417,Employee 417,28.0,Non-binary,IT,IT Support,Delhi,2026-06-30,54536.0,4,4,86.6,21,Resigned
+EMP0418,Employee 418,27.0,Non-binary,Marketing,Marketing Executive,Mumbai,2020-10-10,51603.0,5,4,93.6,13,On Leave
+EMP0419,Employee 419,41.0,Non-binary,Finance,Accountant,Pune,2018-12-15,87172.0,16,3,85.0,5,Resigned
+EMP0420,Employee 420,39.0,Female,Sales,Sales Manager,Hyderabad,2018-06-06,66910.0,18,3,90.5,24,On Leave
+EMP0421,Employee 421,32.0,Male,Human Resources,HR Manager,Hyderabad,2023-10-04,44510.0,10,2,96.7,15,Active
+EMP0422,Employee 422,25.0,Non-binary,Sales,Sales Executive,Pune,2019-09-02,41415.0,3,4,94.7,2,On Leave
+EMP0423,Employee 423,42.0,Non-binary,Operations,Operations Associate,Mumbai,2022-01-04,49757.0,22,4,95.4,11,Resigned
+EMP0424,Employee 424,27.0,Female,IT,Systems Administrator,Bengaluru,2025-01-29,74453.0,7,4,100.0,5,Resigned
+EMP0425,Employee 425,45.0,Prefer not to say,Finance,Accountant,Jaipur,2020-12-09,55880.0,21,3,88.3,27,On Leave
+EMP0426,Employee 426,35.0,Female,Operations,Operations Associate,Delhi,2018-10-29,41419.0,12,1,88.1,8,Active
+EMP0427,Employee 427,42.0,Male,Human Resources,HR Manager,Ahmedabad,2018-11-28,38689.0,19,3,100.0,28,Active
+EMP0428,Employee 428,59.0,Female,,Account Manager,Pune,2023-11-19,72188.0,35,2,88.0,28,Resigned
+EMP0429,Employee 429,24.0,Male,Engineering,Software Engineer,Bengaluru,2018-02-19,69434.0,2,4,95.3,23,On Leave
+EMP0430,Employee 430,37.0,Non-binary,Marketing,Marketing Executive,Ahmedabad,2024-05-29,45682.0,15,1,96.4,18,On Leave
+EMP0431,Employee 431,,Non-binary,IT,IT Support,Bengaluru,2018-09-22,73125.0,32,2,81.4,26,On Leave
+EMP0432,Employee 432,59.0,Female,Operations,Operations Associate,Mumbai,2022-05-22,64341.0,35,2,100.0,9,Active
+EMP0433,Employee 433,28.0,Prefer not to say,Finance,Financial Analyst,Pune,2020-06-17,56237.0,5,3,89.3,20,On Leave
+EMP0434,Employee 434,32.0,Non-binary,Finance,Accountant,Bengaluru,2021-02-28,69087.0,9,1,94.3,14,Resigned
+EMP0435,Employee 435,35.0,Female,Sales,Sales Executive,Jaipur,2026-05-22,62968.0,13,4,100.0,3,Active
+EMP0436,Employee 436,43.0,Prefer not to say,Operations,Operations Manager,Mumbai,2026-01-24,46131.0,19,3,86.4,26,Resigned
+EMP0437,Employee 437,54.0,Prefer not to say,IT,IT Manager,Mumbai,2021-09-11,48758.0,30,3,86.9,2,Resigned
+EMP0438,Employee 438,23.0,Male,IT,IT Support,Jaipur,2022-08-19,69489.0,0,3,100.0,30,Active
+EMP0439,Employee 439,33.0,Prefer not to say,Engineering,Software Engineer,Pune,2018-06-01,75320.0,13,3,93.6,26,On Leave
+EMP0440,Employee 440,59.0,Female,,Software Engineer,Bengaluru,2019-11-23,84692.0,35,3,100.0,17,Resigned
+EMP0441,Employee 441,38.0,Female,IT,IT Manager,Hyderabad,2022-10-30,108914.0,15,3,88.3,25,Resigned
+EMP0442,Employee 442,47.0,Female,Human Resources,HR Executive,Hyderabad,2018-09-05,40154.0,26,4,99.3,25,Resigned
+EMP0443,Employee 443,,Non-binary,IT,Systems Administrator,Pune,2020-11-09,,32,3,100.0,19,Resigned
+EMP0444,Employee 444,32.0,Male,Human Resources,HR Manager,Hyderabad,2020-02-03,50780.0,9,4,89.5,-3,Active
+EMP0445,Employee 445,42.0,Female,Finance,Finance Manager,Bengaluru,2024-09-29,73446.0,21,5,99.8,28,Resigned
+EMP0446,Employee 446,42.0,Non-binary,Human Resources,Recruiter,Jaipur,2026-03-03,53122.0,20,3,95.6,22,On Leave
+EMP0447,Employee 447,35.0,Prefer not to say,Human Resources,Recruiter,Delhi,2018-07-05,55560.0,13,4,100.0,19,On Leave
+EMP0448,Employee 448,33.0,Prefer not to say,Human Resources,HR Manager,Bengaluru,2021-12-15,58683.0,12,4,96.5,27,Resigned
+EMP0449,Employee 449,24.0,Female,IT,Systems Administrator,Pune,2022-10-12,67426.0,3,3,93.0,4,On Leave
+EMP0450,Employee 450,22.0,Male,Marketing,Marketing Executive,Mumbai,2018-12-13,65802.0,1,1,86.3,1,Resigned
+EMP0451,Employee 451,33.0,Prefer not to say,Operations,Operations Manager,Bengaluru,2020-01-28,51893.0,11,4,89.2,3,On Leave
+EMP0452,Employee 452,36.0,Prefer not to say,Human Resources,HR Executive,Jaipur,2021-03-06,45284.0,13,3,100.0,17,Resigned
+EMP0453,Employee 453,31.0,Female,Sales,Account Manager,Ahmedabad,2026-05-25,57312.0,9,3,92.3,5,On Leave
+EMP0454,Employee 454,34.0,Male,IT,IT Manager,Mumbai,2019-06-26,49058.0,9,3,97.2,13,On Leave
+EMP0455,Employee 455,21.0,Male,Human Resources,HR Manager,Jaipur,2022-04-26,51390.0,0,1,100.0,8,On Leave
+EMP0456,Employee 456,40.0,Non-binary,IT,Systems Administrator,Bengaluru,2024-12-29,65260.0,15,4,93.5,14,Resigned
+EMP0457,Employee 457,50.0,Prefer not to say,Engineering,Engineering Manager,Ahmedabad,2020-05-22,89663.0,25,1,100.0,21,Resigned
+EMP0458,Employee 458,59.0,Non-binary,Marketing,Marketing Manager,Ahmedabad,2023-10-31,50909.0,35,3,94.0,10,Resigned
+EMP0459,Employee 459,41.0,Non-binary,Operations,Operations Associate,Mumbai,2020-02-09,54419.0,19,3,93.3,7,Active
+EMP0460,Employee 460,59.0,Non-binary,IT,IT Manager,Mumbai,2021-07-14,63124.0,34,4,93.4,20,Resigned
+EMP0461,Employee 461,37.0,Prefer not to say,Sales,Sales Manager,Ahmedabad,2021-09-11,67990.0,14,3,84.8,18,Active
+EMP0462,Employee 462,35.0,Prefer not to say,Sales,Sales Manager,Delhi,2024-09-12,56608.0,11,3,87.1,27,Active
+EMP0463,Employee 463,56.0,Female,IT,Systems Administrator,Mumbai,2019-01-12,88403.0,34,7,81.3,-3,On Leave
+EMP0464,Employee 464,32.0,Female,IT,IT Support,Delhi,2024-08-16,,10,3,94.6,27,Resigned
+EMP0465,Employee 465,42.0,Non-binary,Finance,Financial Analyst,Jaipur,2021-03-03,87386.0,20,2,91.5,1,On Leave
+EMP0466,Employee 466,58.0,Prefer not to say,Marketing,Marketing Executive,Hyderabad,2023-12-18,45648.0,35,2,100.0,21,RESIGNED
+EMP0467,Employee 467,40.0,Male,Marketing,Marketing Executive,Mumbai,2021-08-20,35434.0,20,3,76.6,18,Resigned
+EMP0468,Employee 468,41.0,Female,Engineering,Senior Engineer,Delhi,2025-01-10,93228.0,20,4,88.5,5,Resigned
+EMP0469,Employee 469,24.0,Non-binary,Operations,Operations Associate,Jaipur,2017-01-20,37215.0,1,4,97.0,18,Active
+EMP0470,Employee 470,26.0,Prefer not to say,Finance,Finance Manager,Bengaluru,2018-06-15,68486.0,2,3,88.1,-3,Resigned
+EMP0471,Employee 471,21.0,Male,Finance,Finance Manager,Delhi,2017-06-04,46691.0,0,5,98.1,28,Resigned
+EMP0472,Employee 472,54.0,Female,IT,IT Manager,Pune,2019-02-20,80013.0,34,3,91.3,22,Resigned
+EMP0473,Employee 473,,Non-binary,Sales,Sales Executive,Ahmedabad,2018-02-25,77344.0,6,4,84.5,9,Resigned
+EMP0474,Employee 474,54.0,Non-binary,Finance,Financial Analyst,Pune,2023-09-09,43184.0,30,5,87.2,10,Resigned
+EMP0475,Employee 475,33.0,Female,Sales,Sales Executive,Mumbai,2018-11-07,54448.0,10,4,125.0,4,Active
+EMP0476,Employee 476,22.0,Male,Operations,Operations Associate,Delhi,2023-08-13,45452.0,0,4,94.5,-3,Active
+EMP0477,Employee 477,37.0,Female,Finance,Finance Manager,Ahmedabad,2025-08-26,47102.0,13,4,100.0,20,Active
+EMP0478,Employee 478,28.0,Prefer not to say,Human Resources,HR Executive,Hyderabad,2021-09-04,44186.0,5,3,99.8,22,Active
+EMP0479,Employee 479,21.0,Female,Engineering,Engineering Manager,Hyderabad,2020-05-18,,0,3,95.2,19,On Leave
+EMP0480,Employee 480,47.0,Female,Engineering,Senior Engineer,Ahmedabad,2026-04-26,95654.0,27,4,95.1,15,Active
+EMP0481,Employee 481,33.0,Male,Marketing,Content Specialist,Pune,2025-09-22,59352.0,11,3,100.0,5,Active
+EMP0482,Employee 482,52.0,Prefer not to say,Marketing,Content Specialist,Mumbai,2019-05-01,54248.0,27,1,97.0,21,Active
+EMP0483,Employee 483,57.0,Male,Human Resources,HR Executive,Jaipur,2024-07-03,44111.0,34,3,100.0,23,On Leave
+EMP0484,Employee 484,37.0,Prefer not to say,Human Resources,Recruiter,Delhi,2024-03-24,38303.0,16,3,100.0,3,Active
+EMP0485,Employee 485,23.0,Non-binary,IT,IT Manager,Delhi,2026-07-23,69381.0,1,3,82.0,3,Active
+EMP0486,Employee 486,23.0,Male,IT,Systems Administrator,Delhi,2017-02-09,71972.0,2,4,87.2,30,On Leave
+EMP0487,Employee 487,26.0,Male,Sales,Sales Executive,Bengaluru,2021-03-07,65171.0,4,3,87.4,14,Resigned
+EMP0488,Employee 488,45.0,Prefer not to say,IT,IT Manager,Jaipur,2024-09-26,63128.0,22,2,78.8,4,On Leave
+EMP0489,Employee 489,24.0,Female,Operations,Operations Analyst,Hyderabad,2026-06-21,43223.0,3,3,125.0,18,On Leave
+EMP0490,Employee 490,32.0,Non-binary,Finance,Finance Manager,Ahmedabad,2023-11-09,42350.0,9,4,97.3,28,On Leave
+EMP0491,Employee 491,,Prefer not to say,Engineering,Senior Engineer,Ahmedabad,2022-06-23,99694.0,31,2,95.0,20,Resigned
+EMP0492,Employee 492,54.0,Male,Human Resources,HR Manager,Jaipur,2025-08-10,35426.0,29,3,91.7,16,On Leave
+EMP0493,Employee 493,60.0,Male,Operations,Operations Analyst,Delhi,2018-01-26,47961.0,35,4,83.9,20,Resigned
+EMP0494,Employee 494,56.0,Female,Engineering,Engineering Manager,Mumbai,2023-11-16,113113.0,35,3,98.1,15,Resigned
+EMP0495,Employee 495,31.0,Non-binary,IT,IT Support,Delhi,2017-11-03,66597.0,8,5,92.2,1,On Leave
+EMP0496,Employee 496,56.0,Prefer not to say,Engineering,Software Engineer,Ahmedabad,2024-03-20,88896.0,33,3,77.7,25,On Leave
+EMP0497,Employee 497,26.0,Non-binary,Finance,Accountant,Bengaluru,2022-08-04,61465.0,3,4,87.2,0,Active
+EMP0498,Employee 498,47.0,Female,Finance,Accountant,Jaipur,2017-05-27,50676.0,23,4,90.0,19,On Leave
+EMP0499,Employee 499,53.0,Prefer not to say,Sales,Account Manager,Delhi,2023-04-23,76752.0,32,4,96.5,26,Active
+EMP0500,Employee 500,50.0,Prefer not to say,IT,IT Manager,Pune,2020-09-21,61203.0,26,3,96.0,14,Active
+EMP0501,Employee 501,35.0,Non-binary,Human Resources,HR Manager,Jaipur,2017-01-09,58853.0,13,3,98.5,16,Resigned
+EMP0502,Employee 502,27.0,Prefer not to say,Operations,Operations Associate,Jaipur,2017-07-07,48629.0,6,4,87.5,23,Resigned
+EMP0503,Employee 503,37.0,Male,Human Resources,HR Executive,Jaipur,2023-11-08,51912.0,16,3,94.8,14,Active
+EMP0504,Employee 504,42.0,Female,Operations,Operations Manager,Jaipur,2018-03-18,57453.0,19,4,96.4,3,Resigned
+EMP0505,Employee 505,58.0,Prefer not to say,Finance,Accountant,Hyderabad,2022-08-28,80008.0,35,4,88.3,17,Resigned
+EMP0506,Employee 506,58.0,Male,IT,IT Manager,Hyderabad,2022-06-02,90287.0,34,2,93.4,26,Active
+EMP0507,Employee 507,45.0,Non-binary,Human Resources,HR Manager,Bengaluru,2024-05-17,65545.0,21,3,87.2,19,On Leave
+EMP0508,Employee 508,36.0,Non-binary,IT,Systems Administrator,Bengaluru,2020-01-26,96733.0,13,4,93.4,4,Resigned
+EMP0509,Employee 509,53.0,Non-binary,Marketing,Marketing Manager,Pune,2020-05-09,44547.0,28,5,88.6,20,Active
+EMP0510,Employee 510,34.0,Non-binary,Engineering,Engineering Manager,Delhi,2024-01-01,79009.0,9,5,95.0,4,On Leave
+EMP0511,Employee 511,32.0,Non-binary,Operations,Operations Manager,Ahmedabad,2022-08-26,53521.0,8,4,88.0,17,Resigned
+EMP0512,Employee 512,57.0,Prefer not to say,Marketing,Marketing Manager,Pune,2024-06-25,51721.0,32,4,100.0,17,Resigned
+EMP0513,Employee 513,48.0,Female,IT,IT Support,Bengaluru,2026-01-24,96604.0,28,2,95.1,21,Active
+EMP0514,Employee 514,38.0,Non-binary,engineering,Engineering Manager,Delhi,2025-05-31,85710.0,17,2,92.8,1,On Leave
+EMP0515,Employee 515,39.0,Female,IT,Systems Administrator,Jaipur,2019-04-16,,15,3,84.8,19,On Leave
+EMP0516,Employee 516,56.0,Prefer not to say,Operations,Operations Associate,Hyderabad,2019-07-08,45282.0,31,4,80.3,25,On Leave
+EMP0517,Employee 517,24.0,Prefer not to say,Sales,Sales Manager,Delhi,2021-04-12,59830.0,1,5,96.5,1,Active
+EMP0518,Employee 518,37.0,Prefer not to say,Operations,Operations Associate,Pune,2019-04-12,42897.0,13,4,100.0,20,Resigned
+EMP0519,Employee 519,58.0,Male,IT,IT Manager,Mumbai,2023-02-17,51123.0,33,3,81.7,5,On Leave
+EMP0520,Employee 520,32.0,Female,Human Resources,Recruiter,Ahmedabad,2018-12-13,47222.0,7,3,99.3,17,Resigned
+EMP0521,Employee 521,31.0,Female,Engineering,Senior Engineer,Bengaluru,2023-07-21,116489.0,9,4,88.8,4,Active
+EMP0522,Employee 522,41.0,Non-binary,Engineering,Senior Engineer,Jaipur,2023-09-11,105171.0,21,3,91.7,11,Active
+EMP0523,Employee 523,41.0,Male,IT,IT Manager,Ahmedabad,2022-11-23,67341.0,20,4,98.2,5,Resigned
+EMP0524,Employee 524,55.0,Non-binary,Marketing,Marketing Executive,Mumbai,2021-07-11,59462.0,35,4,81.0,10,Resigned
+EMP0525,Employee 525,34.0,Prefer not to say,Sales,Sales Manager,Jaipur,2025-06-10,72866.0,10,4,100.0,20,Active
+EMP0526,Employee 526,43.0,Male,Human Resources,HR Executive,Pune,2021-12-31,38806.0,22,4,94.8,12,Active
+EMP0527,Employee 527,37.0,Non-binary,Finance,Accountant,Hyderabad,2023-01-22,72064.0,12,4,93.8,11,On Leave
+EMP0528,Employee 528,53.0,Female,IT,Systems Administrator,Pune,2021-12-31,61525.0,30,2,87.3,16,Active
+EMP0529,Employee 529,31.0,Female,Human Resources,HR Manager,Ahmedabad,2025-09-03,44747.0,7,3,100.0,20,Active
+EMP0530,Employee 530,48.0,Male,IT,IT Manager,Jaipur,2026-05-16,78371.0,28,4,89.4,23,Resigned
+EMP0531,Employee 531,25.0,Male,Operations,Operations Associate,Bengaluru,2025-05-18,56149.0,0,4,72.1,1,ACTIVE
+EMP0532,Employee 532,24.0,Female,Human Resources,HR Manager,Jaipur,2018-12-31,56372.0,2,3,79.8,8,RESIGNED
+EMP0533,Employee 533,49.0,Prefer not to say,Finance,Financial Analyst,Ahmedabad,2024-01-26,59817.0,26,3,84.2,3,On Leave
+EMP0534,Employee 534,60.0,Female,Human Resources,HR Manager,Jaipur,2017-09-17,32182.0,35,2,100.0,29,On Leave
+EMP0535,Employee 535,39.0,Non-binary,Human Resources,HR Manager,Ahmedabad,2025-10-29,40369.0,14,3,94.4,29,Resigned
+EMP0536,Employee 536,46.0,Female,Finance,Financial Analyst,Mumbai,2026-03-22,,21,3,95.3,4,On Leave
+EMP0537,Employee 537,55.0,Male,Finance,Financial Analyst,Pune,2020-04-23,66098.0,30,4,83.0,30,On Leave
+EMP0538,Employee 538,44.0,Male,Operations,Operations Associate,Ahmedabad,2017-02-15,58520.0,20,1,88.5,19,Resigned
+EMP0539,Employee 539,56.0,Male,Marketing,Marketing Manager,Pune,not recorded,34192.0,34,5,89.0,11,Active
+EMP0540,Employee 540,53.0,Male,Finance,Accountant,Hyderabad,2018-08-07,86460.0,32,4,98.0,6,Active
+EMP0541,Employee 541,57.0,Prefer not to say,Engineering,Engineering Manager,Hyderabad,2026-07-23,78480.0,35,2,89.6,21,Active
+EMP0542,Employee 542,27.0,Prefer not to say,Sales,Account Manager,Delhi,2019-03-20,51108.0,2,7,100.0,20,Active
+EMP0543,Employee 543,39.0,Male,Human Resources,Recruiter,Bengaluru,2023-12-13,48781.0,19,3,95.0,19,On Leave
+EMP0544,Employee 544,58.0,Non-binary,Sales,Account Manager,Bengaluru,2018-09-17,67466.0,34,7,93.7,10,Active
+EMP0545,Employee 545,35.0,Prefer not to say,IT,Systems Administrator,Jaipur,2024-12-27,66010.0,10,3,90.6,21,On Leave
+EMP0546,Employee 546,51.0,Non-binary,Sales,Account Manager,Bengaluru,2022-03-11,54133.0,28,3,91.7,5,On Leave
+EMP0547,Employee 547,26.0,Male,Marketing,Marketing Manager,Mumbai,2026-06-10,60324.0,4,3,92.4,28,On Leave
+EMP0548,Employee 548,25.0,Female,Human Resources,HR Manager,Hyderabad,2017-03-18,52253.0,1,3,91.4,18,Active
+EMP0549,Employee 549,56.0,Prefer not to say,Human Resources,HR Manager,Jaipur,2019-12-04,45778.0,32,2,78.0,12,Active
+EMP0550,Employee 550,58.0,Male,IT,Systems Administrator,Hyderabad,2025-03-23,84111.0,35,3,94.4,12,Resigned
+EMP0551,Employee 551,21.0,Male,Marketing,Marketing Manager,Mumbai,2024-06-07,63417.0,0,3,71.7,5,On Leave
+EMP0552,Employee 552,,Prefer not to say,Marketing,Content Specialist,Ahmedabad,2025-04-03,75891.0,5,3,91.0,15,Active
+EMP0553,Employee 553,37.0,Female,Human Resources,HR Manager,Mumbai,not recorded,55971.0,16,3,84.7,25,Resigned
+EMP0554,Employee 554,51.0,Female,Finance,Finance Manager,Delhi,2022-02-06,73762.0,31,2,84.6,30,On Leave
+EMP0555,Employee 555,,Non-binary,Operations,Operations Manager,Hyderabad,2026-05-13,41412.0,13,3,100.0,12,On Leave
+EMP0556,Employee 556,44.0,Female,finance,Finance Manager,Delhi,2023-08-05,62273.0,19,3,93.5,29,Active
+EMP0557,Employee 557,,Prefer not to say,Marketing,Content Specialist,Hyderabad,2020-12-16,61953.0,24,1,95.5,28,Active
+EMP0558,Employee 558,31.0,Non-binary,Finance,Accountant,Mumbai,2019-08-01,67150.0,11,2,94.6,11,On Leave
+EMP0559,Employee 559,28.0,Prefer not to say,Operations,Operations Analyst,Pune,2024-05-31,73380.0,7,2,91.6,21,Resigned
+EMP0560,Employee 560,34.0,Prefer not to say,Finance,Accountant,Mumbai,2023-08-17,67875.0,13,1,99.4,18,On Leave
+EMP0561,Employee 561,29.0,Female,,Engineering Manager,Mumbai,2024-01-23,105673.0,5,2,100.0,8,Active
+EMP0562,Employee 562,46.0,Female,Marketing,Marketing Manager,Pune,2023-09-21,59307.0,22,4,84.0,9,Active
+EMP0563,Employee 563,49.0,Prefer not to say,Engineering,Software Engineer,Mumbai,2023-10-21,115545.0,26,4,84.0,19,Active
+EMP0564,Employee 564,58.0,Non-binary,IT,IT Support,Pune,2026-03-15,74660.0,35,4,86.7,29,Resigned
+EMP0565,Employee 565,58.0,Prefer not to say,marketing,Content Specialist,Mumbai,2017-10-09,51266.0,35,2,94.3,6,On Leave
+EMP0566,Employee 566,53.0,Male,,IT Manager,Ahmedabad,2024-09-04,74948.0,30,7,95.0,28,On Leave
+EMP0567,Employee 567,23.0,Female,Marketing,Marketing Executive,Bengaluru,2025-10-16,70460.0,0,4,95.2,28,On Leave
+EMP0568,Employee 568,21.0,Prefer not to say,Marketing,Marketing Manager,Bengaluru,2025-09-09,49206.0,0,3,98.7,1,On Leave
+EMP0569,Employee 569,48.0,Prefer not to say,Marketing,Content Specialist,Hyderabad,2019-07-29,65607.0,25,4,83.4,29,On Leave
+EMP0570,Employee 570,27.0,Non-binary,Marketing,Content Specialist,Jaipur,2021-10-09,58834.0,6,3,96.9,27,Active
+EMP0571,Employee 571,59.0,Non-binary,Sales,Sales Executive,Ahmedabad,2023-02-06,51399.0,35,4,100.0,25,Active
+EMP0572,Employee 572,54.0,Female,Marketing,Content Specialist,Pune,2018-04-28,50283.0,30,3,92.9,25,Resigned
+EMP0573,Employee 573,44.0,Prefer not to say,Finance,Finance Manager,Hyderabad,2018-03-13,62525.0,23,3,92.1,27,On Leave
+EMP0574,Employee 574,57.0,Non-binary,Finance,Finance Manager,Bengaluru,2021-02-06,49323.0,33,4,81.9,13,On Leave
+EMP0575,Employee 575,56.0,Non-binary,IT,IT Manager,Hyderabad,2022-05-31,94555.0,35,3,86.1,9,On Leave
+EMP0576,Employee 576,46.0,Female,Sales,Sales Manager,Mumbai,2025-04-02,43004.0,25,3,76.9,22,Active
+EMP0577,Employee 577,34.0,Non-binary,Human Resources,HR Manager,Hyderabad,2022-09-14,38674.0,11,4,82.7,22,Active
+EMP0578,Employee 578,45.0,Female,Engineering,Software Engineer,Bengaluru,2024-02-18,115705.0,25,5,99.1,13,Active
+EMP0579,Employee 579,,Female,Human Resources,HR Manager,Ahmedabad,2019-06-28,38187.0,15,4,100.0,29,Resigned
+EMP0580,Employee 580,54.0,Female,marketing,Marketing Executive,Pune,2020-03-19,63231.0,29,7,89.7,0,Active
+EMP0581,Employee 581,54.0,Female,IT,IT Manager,Hyderabad,2020-03-17,31509.0,33,3,100.0,7,On Leave
+EMP0582,Employee 582,23.0,Female,Engineering,Software Engineer,Ahmedabad,2021-01-13,59014.0,2,5,80.5,24,Resigned
+EMP0583,Employee 583,46.0,Male,Sales,Sales Manager,Ahmedabad,2021-07-19,67373.0,22,4,100.0,2,Active
+EMP0584,Employee 584,39.0,Non-binary,Marketing,Content Specialist,Jaipur,2025-02-22,67836.0,15,7,95.9,19,Active
+EMP0585,Employee 585,46.0,Non-binary,Finance,Accountant,Bengaluru,2023-06-13,73504.0,26,3,98.0,17,Active
+EMP0586,Employee 586,39.0,Non-binary,Marketing,Marketing Manager,Jaipur,2020-10-24,60682.0,19,4,94.0,8,On Leave
+EMP0587,Employee 587,45.0,Male,Finance,Financial Analyst,Jaipur,2023-04-26,66490.0,22,3,91.6,14,On Leave
+EMP0588,Employee 588,22.0,Non-binary,IT,IT Support,Bengaluru,2022-05-29,58388.0,2,4,90.0,7,On Leave
+EMP0589,Employee 589,35.0,Prefer not to say,,Operations Analyst,Hyderabad,2025-12-22,30122.0,13,3,91.3,22,Resigned
+EMP0590,Employee 590,39.0,Non-binary,Engineering,Software Engineer,Hyderabad,2018-01-16,66513.0,16,5,84.3,15,Resigned
+EMP0591,Employee 591,34.0,Male,Sales,Sales Manager,Pune,2023-06-08,57176.0,12,5,100.0,6,Resigned
+EMP0592,Employee 592,33.0,Male,Operations,Operations Analyst,Mumbai,2019-08-20,57697.0,8,3,125.0,26,Active
+EMP0593,Employee 593,60.0,Female,IT,IT Support,Ahmedabad,2020-12-29,54759.0,35,4,98.6,21,Resigned
+EMP0594,Employee 594,21.0,Female,Marketing,Content Specialist,Delhi,2025-07-28,40760.0,0,4,90.4,15,On Leave
+EMP0595,Employee 595,38.0,Non-binary,it,Systems Administrator,Mumbai,2022-07-04,78470.0,17,4,85.2,4,Active
+EMP0596,Employee 596,48.0,Female,Marketing,Marketing Manager,Delhi,2022-05-14,53205.0,24,7,82.7,21,Active
+EMP0597,Employee 597,28.0,Prefer not to say,Finance,Financial Analyst,Pune,2024-10-31,56400.0,4,1,94.2,21,Active
+EMP0598,Employee 598,58.0,Non-binary,finance,Finance Manager,Jaipur,2018-02-17,,35,3,95.1,17,Resigned
+EMP0599,Employee 599,,Non-binary,Engineering,Senior Engineer,Mumbai,2022-04-15,84632.0,14,3,95.9,6,Resigned
+EMP0600,Employee 600,44.0,Non-binary,Operations,Operations Analyst,Mumbai,2021-02-04,50364.0,21,3,100.0,18,On Leave
+EMP0151,Employee 151,59.0,Male,Sales,Account Manager,Hyderabad,2018-08-31,44969.0,35,4,88.1,17,On Leave
+EMP0598,Employee 598,58.0,Non-binary,finance,Finance Manager,Jaipur,2018-02-17,,35,3,95.1,17,Resigned
+EMP0152,Employee 152,45.0,Non-binary,Sales,Account Manager,Hyderabad,2023-09-13,64042.0,21,4,96.3,3,On Leave
+EMP0284,Employee 284,53.0,Non-binary,Engineering,Engineering Manager,Hyderabad,2020-03-30,46887.0,32,4,84.9,26,Resigned
+EMP0148,Employee 148,25.0,Non-binary,Operations,Operations Manager,Hyderabad,2022-05-05,51770.0,2,2,87.1,16,Active
+EMP0513,Employee 513,48.0,Female,IT,IT Support,Bengaluru,2026-01-24,96604.0,28,2,95.1,21,Active
+EMP0034,Employee 034,24.0,Male,Engineering,Software Engineer,Hyderabad,2022-09-12,83653.0,4,2,99.0,27,Active
+EMP0246,Employee 246,57.0,Female,finance,Financial Analyst,Delhi,2020-05-12,64885.0,34,4,100.0,13,On Leave
+EMP0345,Employee 345,55.0,Male,Finance,Finance Manager,Mumbai,2024-10-11,75166.0,30,3,95.1,4,Active
+EMP0454,Employee 454,34.0,Male,IT,IT Manager,Mumbai,2019-06-26,49058.0,9,3,97.2,13,On Leave
+EMP0156,Employee 156,29.0,Non-binary,IT,IT Manager,Ahmedabad,2023-03-29,66647.0,9,3,99.7,27,On Leave
+EMP0108,Employee 108,46.0,Prefer not to say,IT,Systems Administrator,Ahmedabad,2022-10-09,65144.0,26,2,97.3,11,On Leave
