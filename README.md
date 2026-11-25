@@ -66,3 +66,29 @@ This project uses simulated employee data for educational purposes. It does not 
 
 ## Author
 Himanshu Raj
+
+
+## Week 1 – Python for Machine Learning & Data Preprocessing
+
+An additional notebook extends this project with machine-learning preprocessing using the existing simulated HR dataset.
+
+### Additional workflow
+- Data inspection using Pandas and NumPy
+- Duplicate removal, type conversion and missing-value imputation
+- Feature selection and target separation
+- One-Hot Encoding of categorical features
+- StandardScaler normalization of numerical features
+- Exploratory Data Analysis with Matplotlib and Seaborn
+- Train/test splitting and preprocessing pipelines to avoid data leakage
+- Export of cleaned, training and testing datasets
+
+### New files
+| File | Description |
+|---|---|
+| `Week1_HR_Data_Preprocessing.ipynb` | Week 1 preprocessing notebook |
+| `requirements.txt` | Python dependencies |
+| `outputs/` | Generated cleaned and preprocessed CSV files (created when notebook runs) |
+
+Run `pip install -r requirements.txt`, then open the Week 1 notebook in Jupyter. Keep `HR_Raw_Dataset.csv` in the repository root.
+
+**Responsible-use note:** The dataset is simulated. Employment status is used only as an educational example target and must not be used for real employment decisions.
